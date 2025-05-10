@@ -1,8 +1,0 @@
-[package]
-name = "coded/zerolabs"
-version = "0.1.0"
-registry = "https://github.com/UpliftGames/wally-index"
-realm = "shared"
-
-[dependencies]
-secure-cast = "1axen/secure-cast@1.1.4"
